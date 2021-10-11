@@ -101,6 +101,7 @@ PyJWT==1.7.1
 PyMsgBox==1.0.9
 pyparsing==2.4.7
 pyperclip==1.8.1
+pypiwin32==223
 pyproj==3.2.0
 pyquery==1.4.3
 PyRect==0.1.4
@@ -114,7 +115,6 @@ PyTweening==1.0.3
 pytz==2021.1
 PyWavelets==1.1.1
 pywebcopy==6.3.0
-pywin32==300
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmail==1.0.3
